@@ -1,28 +1,6 @@
-// alert('Hello from JS file');
+//Single Line of Code Comment
 
-// log a number
-console.log(100)
+// The shortcut key is : ctrl + /
 
-// log string 
-console.log("Hello World");
+// Multi Line Comment Shortcut key: Shift + Alt + A
 
-// log multiple values 
-console.log(20, "Hello", true);
-
-// log variable
-const x = 100;
-console.log(x);
-
-// Console error & warning
-console.error("Alert");
-console.warn("Warning");
-
-//log object as a table
-console.log({ name: "Ryan", email: "ryan@gmail.com" });
-
-//Group Console Commands
-console.group("Simple");
-console.log(x);
-console.error("Alert")
-console.warn("Warning");
-console.groupEnd();
